@@ -43,6 +43,3 @@ img {
     transition: transform 200ms ease-in-out;
 }
 
-#button:hover {
-    transform: scale(1.05);
-}
