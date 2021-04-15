@@ -40,7 +40,7 @@ img {
     padding: 18px 20px;
     box-shadow: 5px 5px 0 #000;
     margin-right: 0;
-    transition: transform 200ms ease-in-out;
+    transition: transform 100ms linear;
 }
 
 #button:hover {
