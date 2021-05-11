@@ -1,0 +1,13 @@
+.main-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    background-color: #000;
+}
+
+.main-footer .contact-item {
+    margin-right: 20px;
+    margin-left: 20px;
+}
