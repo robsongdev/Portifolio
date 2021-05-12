@@ -1,0 +1,12 @@
+.main-form{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.main-form .main-input{
+    margin-bottom: 20px;
+}
+
+.main-form .main-input.-message{
+    margin-bottom: 40px;
+}
