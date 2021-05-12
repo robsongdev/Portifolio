@@ -9,8 +9,18 @@
     font-size: 20px;
     margin-bottom: 5px;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .main-button:hover {
     transform: scale(1.05);
+}
+
+.main-button.-contact{
+    width: 100%;
+    font-size: 30px;
+}
+
+.main-button.-contact:hover{
+    transform: scale(1.02);
 }
