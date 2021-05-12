@@ -26,7 +26,10 @@
     <link rel="stylesheet" href="css/components/button-arrow.css">
     <link rel="stylesheet" href="css/components/node-card.css">
     <link rel="stylesheet" href="css/components/main-carousel.css">
-    
+    <link rel="stylesheet" href="css/components/main-footer.css">
+    <link rel="stylesheet" href="css/components/main-form.css">
+    <link rel="stylesheet" href="css/components/main-label.css">
+    <link rel="stylesheet" href="css/components/main-input.css">
 </head>
 <body>
     <header class="main-header">
@@ -201,6 +204,28 @@
             Procuro iniciar minha carreira de programador, e mais importante aprender e crescer profissionalmente.
         </p>
     </section>
+    <section class="main-section -contatos">
+        <h1 class="main-title -second">Contatos</h1>
+
+        <form action="" class="main-form">
+            
+                <label for="name" class="main-label">Nome</label>
+                <input id="name" class="main-input" type="text" required>
+
+                <label for="email" class="main-label">Email</label>
+                <input id="email" class="main-input" type="email" required>
+
+                <label for="message" class="main-label">Mensagem</label>
+                <textarea id="message" class="main-input -message"></textarea>
+
+            <button class="main-button -contact "type="submit">Enviar</button>
+        </form>
+
+    </section>
+    <footer class="main-footer">
+        <a class="contact-item" href="https://github.com/robsongdev/" target="_blank"><img src="assets/img/github-logo.png" alt="github-logo"></a>
+        <a class="contact-item" href="https://www.linkedin.com/in/robson-gabriel-rodrigues-215470205" target="_blank"><img src="assets/img/linkedin-logo.png" alt="linkedin-logo"></a>
+    </footer>
     <script src="js/components/main-carousel.js"></script>
 </body>
 </html>
