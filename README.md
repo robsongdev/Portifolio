@@ -1,5 +1,5 @@
-<img alt="icon" title="#icon" src="https://i.imgur.com/O14s0Df.png" width="100px" align = "left"> <br>
-<h1 align="center"> Portifólio </h1>
+<img alt="icon" title="#icon" src="https://i.imgur.com/O14s0Df.png" width="100px" align = "left">
+<h1 align="center">Portifólio </h1>
 
 <p align="center"> 
   Criação de um portfólio exemplo, passando pelos principais conceitos de HMTL focando em CSS como: RSCSS, flexbox, componentização e animações
